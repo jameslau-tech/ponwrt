@@ -12,7 +12,7 @@ permissions:
   contents: write
   actions: write
 env:
-  WRT_IP: 192.168.50.1
+  WRT_IP: 192.168.5.1
   TZ: Asia/Shanghai
 
 jobs:
